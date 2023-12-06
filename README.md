@@ -1,2 +1,2 @@
-# Khalid-Workshop
+# Workshop
 Git on Linux
